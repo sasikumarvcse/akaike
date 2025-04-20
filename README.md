@@ -1,5 +1,3 @@
-# akaike
-
 # Email Shield: PII Protection & Email Classification System
 
 ## Overview
